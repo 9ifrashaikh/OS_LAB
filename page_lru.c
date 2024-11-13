@@ -1,4 +1,4 @@
-// LRU 
+// LRU in page replacement
 #include <stdio.h>
 
 

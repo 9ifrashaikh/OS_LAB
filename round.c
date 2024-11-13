@@ -1,4 +1,4 @@
-// round robin 
+// round robin in CPU schedulling 
 #include <stdio.h>
 
 

@@ -1,4 +1,4 @@
-// shortest job 
+// shortest job in cpu schedulling
 #include <stdio.h>
 #include <stdbool.h>
 

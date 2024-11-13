@@ -1,4 +1,4 @@
-// fisrt come first serve 
+// fisrt come first serve for CPU 
 #include <stdio.h>
 
 

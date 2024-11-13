@@ -1,4 +1,4 @@
-// priority schedulling 
+// priority schedulling in CPU 
 #include <stdio.h>
 #include <stdbool.h>
 

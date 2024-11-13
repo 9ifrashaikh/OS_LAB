@@ -1,3 +1,5 @@
+// readre writer problem 
+
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
